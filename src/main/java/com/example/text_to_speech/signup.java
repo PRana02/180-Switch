@@ -61,7 +61,7 @@ public class signup extends AppCompatActivity implements View.OnClickListener {
 
     email = (TextView) findViewById(R.id.editText6);
     password = (TextView) findViewById(R.id.editText5);
-    reg = (TextView) findViewById(R.id.Register);
+    reg = (TextView) findViewById(R.id.register);
     login = (TextView) findViewById(R.id.textView4);
 
     reg.setOnClickListener(this);
