@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\piyus\\Desktop\\Text2Speech\\180Switch\\navigationDrawer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\piyus\\Desktop\\Text2Speech\\180Switch\\navigationDrawer\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,30,17,31,29,28",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "683,1094,620,1150,1029,966",
+                        "endLines": "27,30,17,31,29,28",
+                        "endColumns": "19,55,62,86,64,62",
+                        "endOffsets": "961,1145,678,1232,1089,1024"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,338,394,457,544,609",
+                        "endLines": "11,12,13,14,15,16",
+                        "endColumns": "19,55,62,86,64,62",
+                        "endOffsets": "333,389,452,539,604,667"
+                    }
+                }
+            ]
+        }
+    ]
+}
