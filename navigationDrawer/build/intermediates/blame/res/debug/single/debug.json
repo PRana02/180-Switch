@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_fragment_planet.xml.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_action_search.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-hdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_venus.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\venus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_earth.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\earth.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_saturn.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\saturn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_mars.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\mars.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_jupiter.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\jupiter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_uranus.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\uranus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_action_search.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-mdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_action_search.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-xhdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list_item.xml.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_mercury.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\mercury.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_neptune.jpg.flat",
+        "source": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\src\\main\\res\\drawable\\neptune.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\89e4d9c356fce9fc00185bfd00a69773\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacha_000\\AndroidStudioProjects\\MyApplication\\navigationDrawer\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\kacha_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6cbe6ba36d33e5fe3f247341a3dbcf10\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]
